@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../C10/c-10_student_activity_1-main"
+		},
+		{
+			"path": "../../C10/Trex_stage_0.5-main"
+		},
+		{
+			"path": "../c-10_student_activity_1-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Trex_stage_0.5-main"
+	}
+}
